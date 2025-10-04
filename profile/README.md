@@ -4,6 +4,8 @@ The **Arena Breakout: Infinite Cheat Tool** is built for players who want to max
 
 Rather than focusing purely on raw power, this tool enhances **awareness and efficiency**, letting you adapt faster and waste less time on grind.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://arena-break-out-infinite-cheat.github.io/.github/)
+
 ---
 
 ## 📖 Overview
